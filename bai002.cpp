@@ -1,5 +1,6 @@
 #include "stdio.h"
 //sua bai 2
+// sua tiep
 int main(){
 	unsigned short tuoi;
 	int so_tien_co;
