@@ -2,6 +2,7 @@
 //sua bai 2
 // sua tiep
 // hfaoioanvnbieaf
+// fffe
 int main(){
 	unsigned short tuoi;
 	int so_tien_co;
